@@ -7,7 +7,7 @@
   
 <!--<h3 align="center">Passionate about Data Science and Ios Develeopment</h3> -->
 <h3><img align="right" alt="coding" width="400" src="images/Cyberpunk Gif - IceGif.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SAIKARTHIKvempati&label=Profile%20views&color=0e75b6&style=flat" alt="TarunKumarThota" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tarun3824&label=Profile%20views&color=0e75b6&style=flat" alt="TarunKumarThota" /> </p>
 </h3>
 
 
@@ -31,14 +31,14 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <h3 align="left">Stats</h3>
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAIKARTHIKvempati&theme=dark" width="45%" align="center"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun3824&theme=dark" width="45%" align="center"/>
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=Stapa1&theme=dark&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="45%" align="center"/> -->
- <img src="https://github-readme-stats.vercel.app/api?username=SAIKARTHIKvempati&theme=dark&show_icons=true" width="45%" align="center"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Tarun3824&theme=dark&show_icons=true" width="45%" align="center"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIKARTHIKvempati&theme=dark&layout=compact" align="center" width="30%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAIKARTHIKvempati&theme=moonlight" width="58%" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun3824&theme=dark&layout=compact" align="center" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarun3824&theme=moonlight" width="58%" align="center" />
  
-  <img src="https://github-profile-trophy.vercel.app/?username=SAIKARTHIKvempati&row=1(https://github.com/Stapa1/github-profile-trophy)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tarun3824&row=1(https://github.com/Stapa1/github-profile-trophy)" />
 
 <p/>
   
