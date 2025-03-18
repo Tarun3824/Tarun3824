@@ -1,13 +1,13 @@
-# Welcome to Sai Karthik's GitHub Space!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+# Welcome to TarunKumar's GitHub Space!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 <h1 align = "center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+World!;My+name+is+Sai+Karthik;Welcome+to+my+README" alt="Typing SVG" /><a/>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+World!;My+name+is+Tarun+Kumar;Welcome+to+my+README" alt="Typing SVG" /><a/>
  <h1/>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Stapa1&label=Profile%20views&color=0e75b6&style=flat" alt="Stapa1" /> </p> -->
   
 <!--<h3 align="center">Passionate about Data Science and Ios Develeopment</h3> -->
 <h3><img align="right" alt="coding" width="400" src="images/Cyberpunk Gif - IceGif.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SAIKARTHIKvempati&label=Profile%20views&color=0e75b6&style=flat" alt="SAIKARTHIKvempati" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SAIKARTHIKvempati&label=Profile%20views&color=0e75b6&style=flat" alt="TarunKumarThota" /> </p>
 </h3>
 
 
@@ -15,17 +15,16 @@
 
 <!-- - 📫 How to reach me **manigorla7@gmail.com** -->
 
-- 🎓 I'm a CSE undergrad at SRMAP.  
-- 💻 I’m currently working as Junior Data Scientist at Sybyl. 
-- 👯 I'm currently learning Data Science and Business Analytics.
-- ⭐ 2025's Objective: Contribute more to open source and master Data Science and Business Analytics. 
+- 🎓 I'm a DataScience PostGrad at SRMAP. 
+- 👯 I'm currently learning Data Science.
+- ⭐ 2025's Objective: Contribute more to open source and master Data Science. 
 
 <!-- - ⚡ Fun fact **I am a procastinator** -->
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sai-karthik-vempati-b87682236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-karthik-vempati-b87682236/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tarunkumar-thota-10138a23b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tarunkumar-thota-10138a23b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages: </h3>
