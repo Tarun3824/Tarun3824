@@ -17,7 +17,7 @@
 
 - 🎓 I'm a DataScience PostGrad at SRMAP. 
 - 👯 I'm currently learning Data Science.
-- ⭐ 2025's Objective: Contribute more to open source and master Data Science. 
+- ⭐ 2026's Objective: Contribute more to open source and master Data Science. 
 
 <!-- - ⚡ Fun fact **I am a procastinator** -->
 
