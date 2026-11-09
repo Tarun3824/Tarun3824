@@ -16,7 +16,7 @@
 <!-- - 📫 How to reach me **manigorla7@gmail.com** -->
 
 - 🎓 I'm a DataScience PostGrad at SRMAP. 
-- 👯 I'm currently learning Data Science.
+- - 🌱 I’m exploring Data Science and its real-world applications.
 - ⭐ 2026's Objective: Contribute more to open source and master Data Science. 
 
 <!-- - ⚡ Fun fact **I am a procastinator** -->
